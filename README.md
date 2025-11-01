@@ -27,18 +27,18 @@ Soy un **internauta apasionado por la tecnología y las nuevas herramientas**, a
 ## 🛠 Tecnologías que estoy explorando  
 
 
-![](https://img.shields.io/badge/OS‑Linux‑informational?style=flat&logo=linux&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/OS‑Windows‑informational?style=flat&logo=windows&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/OS‑macOS‑informational?style=flat&logo=apple&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/Code‑Python‑informational?style=flat&logo=python&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/Code‑C%2B%2B‑informational?style=flat&logo=c%2B%2B&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/Code‑JavaScript‑informational?style=flat&logo=javascript&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/Framework‑Node.js‑informational?style=flat&logo=node.js&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/Database‑SQLite‑informational?style=flat&logo=sqlite&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/Database‑PostgreSQL‑informational?style=flat&logo=postgresql&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/DevOps‑Docker‑informational?style=flat&logo=docker&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/Shell‑Bash‑informational?style=flat&logo=gnu‑bash&logoColor=white&color=bd93f9)
-![](https://img.shields.io/badge/Interest‑Artificial_Intelligence‑informational?style=flat&logo=artificial‑intelligence&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/OS-Linux-for_the_badge?style=for-the-badge&logo=linux&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/OS-Windows-for_the_badge?style=for-the-badge&logo=windows&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/OS-macOS-for_the_badge?style=for-the-badge&logo=apple&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Code-Python-for_the_badge?style=for-the-badge&logo=python&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Code-C%2B%2B-for_the_badge?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Code-JavaScript-for_the_badge?style=for-the-badge&logo=javascript&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Framework-Node.js-for_the_badge?style=for-the-badge&logo=node.js&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Database-SQLite-for_the_badge?style=for-the-badge&logo=sqlite&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Database-PostgreSQL-for_the_badge?style=for-the-badge&logo=postgresql&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/DevOps-Docker-for_the_badge?style=for-the-badge&logo=docker&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Shell-Bash-for_the_badge?style=for-the-badge&logo=gnu-bash&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Interest-Artificial_Intelligence-for_the_badge?style=for-the-badge&logo=artificial-intelligence&logoColor=white&color=bd93f9)
 
 
 ---
