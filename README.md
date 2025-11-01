@@ -1,6 +1,10 @@
 
 
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/URD0TH/URD0TH/refs/heads/main/banner_github.png" alt="Banner">
+</p>
+
 # Hola 👋, soy URD0TH
 
 Soy un **internauta apasionado por la tecnología y las nuevas herramientas**, aprendiz continuo de todo un poco.  
@@ -23,18 +27,18 @@ Soy un **internauta apasionado por la tecnología y las nuevas herramientas**, a
 ## 🛠 Tecnologías que estoy explorando  
 
 
-![](https://img.shields.io/badge/OS‑Linux‑informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/OS‑Windows‑informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/OS‑macOS‑informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Code‑Python‑informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Code‑C%2B%2B‑informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Code‑JavaScript‑informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Framework‑Node.js‑informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Database‑SQLite‑informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Database‑PostgreSQL‑informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/DevOps‑Docker‑informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Shell‑Bash‑informational?style=flat&logo=gnu‑bash&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Interest‑Artificial_Intelligence‑informational?style=flat&logo=artificial‑intelligence&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/OS‑Linux‑informational?style=flat&logo=linux&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/OS‑Windows‑informational?style=flat&logo=windows&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/OS‑macOS‑informational?style=flat&logo=apple&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Code‑Python‑informational?style=flat&logo=python&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Code‑C%2B%2B‑informational?style=flat&logo=c%2B%2B&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Code‑JavaScript‑informational?style=flat&logo=javascript&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Framework‑Node.js‑informational?style=flat&logo=node.js&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Database‑SQLite‑informational?style=flat&logo=sqlite&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Database‑PostgreSQL‑informational?style=flat&logo=postgresql&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/DevOps‑Docker‑informational?style=flat&logo=docker&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Shell‑Bash‑informational?style=flat&logo=gnu‑bash&logoColor=white&color=bd93f9)
+![](https://img.shields.io/badge/Interest‑Artificial_Intelligence‑informational?style=flat&logo=artificial‑intelligence&logoColor=white&color=bd93f9)
 
 
 ---
@@ -63,8 +67,8 @@ Estoy abierto a conversaciones, intercambios y colaboraciones livianas:
 ---
 
 ## 📊 Estadísticas  
-[![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=URD0TH&show_icons=true&theme=dark)](https://github.com/URD0TH)  
-[![Trofeos GitHub](https://github-profile-trophy.vercel.app/?username=URD0TH&theme=onedark)](https://github.com/URD0TH)
+[![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=URD0TH&show_icons=true&theme=dracula)](https://github.com/URD0TH)
+[![Trofeos GitHub](https://github-profile-trophy.vercel.app/?username=URD0TH&theme=dracula)](https://github.com/URD0TH)
 
 ---
 
