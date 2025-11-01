@@ -45,9 +45,11 @@ Soy un **internauta apasionado por la tecnología y las nuevas herramientas**, a
 
  
 ## 📂 Proyectos destacados  
-Aquí algunos proyectos que reflejan mi curiosidad y aprendizaje (más que experticia):  
-- [Omarchy](https://github.com/basecamp/omarchy) — Una distribución de Linux basada en Arch Linux + Hyprland, moderna y opinada, creada para exploración de entornos Linux. :contentReference[oaicite:2]{index=2}  
-- [lncrawl](https://github.com/dipu-bd/lightnovel-crawler) — Herramienta en Python para descargar novelas ligeras de fuentes online y generar e-books en distintos formatos; buena muestra de automatización y scraping web. :contentReference[oaicite:3]{index=3}  
+Aquí algunos proyectos que reflejan mi curiosidad y aprendizaje:  
+- [Omarchy](https://github.com/basecamp/omarchy) — Una distribución de Linux basada en Arch Linux + Hyprland, moderna y opinada, creada para exploración de entornos Linux.
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) — Un conjunto de utilidades de sistema para Windows desarrollado por Chris Titus, que permite instalar programas, aplicar mejoras (“tweaks”), configurar servicios y gestionar actualizaciones de forma automatizada.
+
+- [lncrawl](https://github.com/dipu-bd/lightnovel-crawler) — Herramienta en Python para descargar novelas ligeras de fuentes online y generar e-books en distintos formatos; buena muestra de automatización y scraping web. 
 - [Recopilacion-A8-GSI-vendor-dumpster-A530F](https://github.com/URD0TH/Recopilacion-A8-GSI-vendor-dumpster-A530F) — Fork con dumps de vendor de un dispositivo Samsung A8; explora ingeniería de sistemas móviles.  
 - [deskflow](https://github.com/URD0TH/deskflow) — Herramienta multiplataforma (Windows/macOS/Linux) en C++ para compartir teclado y ratón entre varios ordenadores; exploración de interacción entre sistemas.  
 - [MangaOnlineViewer](https://github.com/URD0TH/MangaOnlineViewer) — Script en JavaScript que unifica la lectura de páginas de manga en una sola vista; reto de automatización y scraping web.  
